@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>tutorial</title>
+<style>
+  body
+  {
+  	font-family: sans-serif;
+  	background-color: azure;
+  }
+  table
+  {
+  	width:50%;
+  	border-collapse: collapse;
+  	background-color: floralwhite;
+  }
+
+</style>
+</head>
+<h1>Sale information</h1>
+<body>
+ <table border="1">
+   <tr>
+    <th>SN</th>
+     <th>Item Name</th>
+      <th>Quantity</th>
+       <th>Price</th>
+        <th>quality</th>
+   </tr>
+ 
+   <tr>
+    <td>1</td>
+    <td>Labtop</td>
+    <td rowspan="5">4</td>
+    <td>60000</td>
+    <td>240000</td>
+   </tr>
+     </tr>
+   <tr>
+    <td>2</td>
+    <td>mouse</td>
+    <td>600</td>
+    <td>2400</td>
+   </tr>
+     </tr>
+   <tr>
+    <td>3</td>
+    <td>keybord</td>
+    <td>800</td>
+    <td>3200</td>
+   </tr>
+     </tr>
+   <tr>
+    <td>4</td>
+    <td>Labtop</td>
+    <td>1000</td>
+    <td>4000</td>
+   </tr>SD Drive
+     </tr>
+   <tr>
+    <td>5</td>
+    <td>SSD Drive</td>
+    <td>20000</td>
+    <td>80000</td>
+   </tr>
+ </table>
+</body>
+</html>
